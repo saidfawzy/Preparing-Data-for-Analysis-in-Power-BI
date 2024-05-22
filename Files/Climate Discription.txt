@@ -1,0 +1,4 @@
+1	Dry tropical or tundra and ice
+2	Wet tropical
+3	Tempereature humide suptropical amd temporate contenental
+4	Dry hot summers and wet winters.
